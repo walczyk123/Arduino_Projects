@@ -12,7 +12,7 @@ HT42B534-x
 PL:  
 
 Rozpakuj archiwum i zainstaluj z niego sterownik.  
-Numer cz�ci:  
+Numer części:  
 HT42B534-x  
 
 [Strona Holtek HT42B534-x](https://www.holtek.com/productdetail/-/vg/42B534-x)

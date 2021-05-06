@@ -1,0 +1,21 @@
+#WEMOS XI 8F328P-U
+
+* MCU:  LGT8F328P compatibile with MEGA328P.  
+	* 32kb flash
+	* 2kb SRAM
+	* 16 MHz clock
+* Pins:
+	* 16 Digital pins
+		* 8 PWM pins
+	* 6 ADC inputs (10 bit)
+* Power:
+	* via USB cable
+	* 3.3V stable power source
+	* 5V input
+* 3.3V or 5V working voltage, can be changed with the jumper next to the regulator.
+* Build-in LED and reset button
+
+
+[USB to UART bridge driver](https://www.holtek.com/productdetail/-/vg/42B534-x)  
+[Wemos XI board driver for Arduino IDE](https://github.com/wemos/Arduino_XI)  
+[Microcontroller LGT8F88A documentation](https://www.avrfreaks.net/sites/default/files/forum_attachments/LGT8F88A%20V1_1.pdf)  

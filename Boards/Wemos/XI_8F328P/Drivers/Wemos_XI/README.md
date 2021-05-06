@@ -24,12 +24,12 @@ PL:
 
 Instalacja:  
 * Rozpakuj archiwum,
-* W folderze gdzie zainstalowane jest Arduino IDE otwórz folder "hardware",
-* Utwórz katalog "wemos", nastêpnie w nim utworz kolejny katalog "XI",
-* Zawartoœæ archiwum przenieœ do folderu XI.
+* W folderze gdzie zainstalowane jest Arduino IDE otwÃ³rz folder "hardware",
+* UtwÃ³rz katalog "wemos", nastÄ™pnie w nim utworz kolejny katalog "XI",
+* ZawartoÅ›Ä‡ archiwum przenieÅ“ do folderu XI.
 
-Œcie¿ka powinna wygl¹daæ mniej wiêcej tak: "C:\Arduino\hardware\wemos\XI" a w œrodku powinny byæ wszystkie foldery i pliki.  
+ÅšcieÅ¼ka powinna wyglÄ…daÄ‡ mniej wiÄ™cej tak: "C:\Arduino\hardware\wemos\XI" a w Å›rodku powinny byÄ‡ wszystkie foldery i pliki.  
 ![example](example.png)    
-Po zresetowaniu Arduino IDE, nale¿y wybraæ p³ytkê Wemos XI.   
+Po zresetowaniu Arduino IDE, naleÂ¿y wybraÃ¦ pÅ‚ytkÄ™ Wemos XI.   
 ![board](board.png)   
  

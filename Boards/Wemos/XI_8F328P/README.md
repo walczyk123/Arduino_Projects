@@ -32,16 +32,16 @@ PL:
 	* 2kb SRAM  
 	* 16 MHz clock  
 * Piny:  
-	* 16 wejœæ/wyjœæ cyforwych  
-		* 8 wyjœæ PWM  
-	* 6 wejœæ przetwornika ADC (10 bit)  
+	* 16 wejÅ›Ä‡/wyjÅ›Ä‡ cyforwych  
+		* 8 wyjÅ›Ä‡ PWM  
+	* 6 wejÅ›Ä‡ przetwornika ADC (10 bit)  
 * Zasilanie:  
 	* przez kabel USB  
-	* zasilaj¹c stabilizowanym napiêciem 3.3V  
-	* Zasilaj¹c wejœciem 5V  
-* Napiêcie pracy 3.3V lub 5V, wyboru dokonuje siê przelutowywuj¹c zworkê nad regulatorem napiêcia  
+	* zasilajÄ…c stabilizowanym napiÃªciem 3.3V  
+	* ZasilajÄ…c wejÅ›ciem 5V  
+* NapiÄ™cie pracy 3.3V lub 5V, wyboru dokonuje siÄ™ przelutowywujÄ…c zworkÄ™ nad regulatorem napiÄ™cia  
 * Wbudowana dioda LED oraz przycisk RESET
 
 [Sterownik mostka USB do UART](https://www.holtek.com/productdetail/-/vg/42B534-x)   
-[Sterownik p³ytki Wemos XI dla Arduino IDE](https://github.com/wemos/Arduino_XI)   
+[Sterownik pÅ‚ytki Wemos XI dla Arduino IDE](https://github.com/wemos/Arduino_XI)   
 [Dokumentacja mikrokontrolera LGT8F88A](https://www.avrfreaks.net/sites/default/files/forum_attachments/LGT8F88A%20V1_1.pdf)  
